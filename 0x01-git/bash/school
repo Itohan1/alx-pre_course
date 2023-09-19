@@ -1,0 +1,5 @@
+#!/bin/bash
+echo "School"
+^C
+#!/bin/bash
+echo "School" 
