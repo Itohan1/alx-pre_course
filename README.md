@@ -1,1 +1,5 @@
-another readme fot 0x01-git
+<<<<<<< HEAD
+Making changes through Software engineering
+=======
+Making changes through Software engineering 
+>>>>>>> 5a4cee69b2a06d309dd3684f9eb22dd64a1f5c31
